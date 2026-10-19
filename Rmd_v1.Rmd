@@ -1,6 +1,8 @@
 ---
 title: "Git Happy Ayicia"
-output: html_document
+output: github_document
+  html_document: 
+    keep_md: true
 date: "2026-10-19"
 ---
 
